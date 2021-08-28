@@ -28,7 +28,7 @@ namespace SecondMaxNumArray
             //multidimentional Array
             int[,,] mult = new int[3, 3, 3];
 
-            //jagged Array
+            ///jagged Array
             int[][] jagArr = new int[3][];
 
 
